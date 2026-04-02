@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NotePinkie</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+    <h1>WELCOME TO NOTEPINKIE</h1>
+    <h2>This website is designed with a soft and clean style to make writing and organizing your thoughts more enjoyable. Whether it’s daily notes, reminders, or inspiration, NOTEPINKIE is here to keep everything in one lovely place.</h2>
+    <h3><b>In NotePinkie you can</b></h3>
+    <ul>
+        <li>✍️ Write notes anytime</li>
+        <li>📂 Organize your ideas</li>
+        <li>💡 Keep everything in one place</li>
+        <li>🎀 Enjoy a soft and aesthetic design</li>
+    </ul>
+    <h4><b><u>why NotePinkie ?</u></b></h4>
+    <ul>
+    <dl>
+    <dt><li> Write Notes</li></dt>
+    <dd>-Create and save your notes easily anytime.</dd>
+    <dt><li>📂 Organize Ideas</li></dt>
+    <dd>-Keep all your thoughts in one simple place.</dd>
+    <dt><li>💡 Stay Creative</li></dt>
+    <dd>-Write your ideas in a clean and aesthetic space.</dd>
+    <dt><li>🎀 Cute Design</li></dt>
+    <dd>-Enjoy a soft pink interface while working.</dd>
+  </dl>
+    </ul>
+    <h5>Turn your thoughts into something beautiful 💖
+        Join NOTEPINKIE and enjoy a calm, creative space for your notes.</h5>
+    </section>
+    <a href="page2.html">Go to Page 2</a>
+</body>
+</html>
